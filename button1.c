@@ -7,5 +7,6 @@ int main()
 	printf("New Welcome\n");
 	printf("Uploaded to github\n");
 	printf("Bug fix\n");
+	printf("Bug fix2\n");
 	return 0;
 }

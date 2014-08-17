@@ -10,6 +10,5 @@ int main()
 	
 	Printf("Free1\n");
 	Printf("Free2\n");
-	Printf("Free3\n");
 	return 0;
 }

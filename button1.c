@@ -9,5 +9,6 @@ int main()
 	Printf("My development for branch2 started");
 	
 	Printf("Free1\n");
+	Printf("Free2\n");
 	return 0;
 }
